@@ -101,6 +101,7 @@ export const skillsData = [
   "MySQL",
   "MongoDB",
   "TypeORM",
+  "Docker",
   "Strapi CMS",
   "Jest",
   "Cypress",
