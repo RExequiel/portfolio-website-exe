@@ -5,6 +5,8 @@
 - Next.js 13
 - TypeScript
 - Tailwind CSS
+- React-hot-toast
+- React-icons
 - Context API
 - Advanced Animations with Framer Motion
 - React.Email & Resend
