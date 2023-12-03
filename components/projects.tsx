@@ -23,6 +23,7 @@ export default function Projects() {
       <div className="mt-8 text-center">
         <Link
           href="https://github.com/RExequiel"
+          target="_blank"
           className="group bg-gray-900 text-white px-7 py-3 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition"
         >
           Ver más proyectos
