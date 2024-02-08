@@ -32,7 +32,7 @@ export default function Intro() {
           >
             <Image
               src="/perfil_00.webp"
-              alt="Ricardo portrait"
+              alt="Exequiel Gerez"
               width="192"
               height="192"
               quality="95"
