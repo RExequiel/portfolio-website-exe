@@ -48,7 +48,7 @@ export const experiencesData = [
     description:
       "Emulaciones laborales que consisten en desarrollo de software en equipo, con fines de aprendizaje poniendo en práctica habilidades técnicas y blandas.",
     icon: React.createElement(FaReact),
-    date: "2023",
+    date: "2023 - Actualidad",
   },
   {
     title: "Técnico superior en programación",
