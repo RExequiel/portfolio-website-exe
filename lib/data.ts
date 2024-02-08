@@ -36,7 +36,7 @@ export const links = [
 export const experiencesData = [
   {
     title: "Software Developer",
-    location: "ScaleMote",
+    location: "ScaleMote (actualmente: Bigger)",
     description:
       "Desarrollador de software, con tecnologías JavaScript, entre otras: ReactJS, TypeScript, NestJS, MySQL, TypeORM, Jest, Cypress, Supertest, AWS, Tailwind CSS, Docker.",
     icon: React.createElement(CgWorkAlt),
