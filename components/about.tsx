@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>Sobre mí</SectionHeading>
       <p className="mb-3">
-        Tengo 24 años, me gusta el deporte, escuchar musica y el ambiente en
+        Tengo 25 años, me gusta el deporte, escuchar musica y el ambiente en
         familia.
       </p>
       <p>
