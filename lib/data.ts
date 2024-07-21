@@ -109,4 +109,6 @@ export const skillsData = [
   "Java",
   "Spring Boot",
   "Hibernate",
+  "VTEX",
+  "Shopify",
 ] as const;
