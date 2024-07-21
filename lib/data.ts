@@ -35,20 +35,20 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Frontend Developer",
+    location: "CoreBiz",
+    description:
+      "Desarrollo de tiendas virtuales basadas en la tecnologia VTEX, maquetación basado en HTML, SCSS, Javascript y Creacion de componentes customizados basados en React.js, Node.js y GraphQL",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024 - Actualidad",
+  },
+  {
     title: "Software Developer",
     location: "ScaleMote (actualmente: Bigger)",
     description:
       "Desarrollador de software, con tecnologías JavaScript, entre otras: ReactJS, TypeScript, NestJS, MySQL, TypeORM, Jest, Cypress, Supertest, AWS, Tailwind CSS, Docker.",
     icon: React.createElement(CgWorkAlt),
     date: "2023",
-  },
-  {
-    title: "Frontend Developer",
-    location: "No Country",
-    description:
-      "Emulaciones laborales que consisten en desarrollo de software en equipo, con fines de aprendizaje poniendo en práctica habilidades técnicas y blandas.",
-    icon: React.createElement(FaReact),
-    date: "2023 - Actualidad",
   },
   {
     title: "Técnico superior en programación",
