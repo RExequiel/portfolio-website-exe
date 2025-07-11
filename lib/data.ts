@@ -1,6 +1,5 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import mercadoPagoClone from "@/public/mercado-pago-clone.png";
 import festbnbProject from "@/public/festbnb-project.png";
@@ -44,9 +43,17 @@ export const experiencesData = [
   },
   {
     title: "Software Developer",
+    location: "GECO",
+    description:
+      "Análisis, diseño y desarrollo de aplicaciones Web/Mobile con tecnologías cómo Flutter, Python y MongoDB",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024",
+  },
+  {
+    title: "Software Developer",
     location: "ScaleMote (actualmente: Bigger)",
     description:
-      "Desarrollador de software, con tecnologías JavaScript, entre otras: ReactJS, TypeScript, NestJS, MySQL, TypeORM, Jest, Cypress, Supertest, AWS, Tailwind CSS, Docker.",
+      "Desarrollador de software, con tecnologías JavaScript, entre otras: ReactJS, TypeScript, NestJS, MySQL, TypeORM, Jest, Cypress, Supertest, AWS, Tailwind CSS y Docker",
     icon: React.createElement(CgWorkAlt),
     date: "2023",
   },
@@ -54,9 +61,9 @@ export const experiencesData = [
     title: "Técnico superior en programación",
     location: "Teclab, Instituto Técnico Superior",
     description:
-      "Estoy por comenzar a cursar el segundo año de la carrera, con todas las materias del primer año aprobadas.",
+      "EGRESADO",
     icon: React.createElement(LuGraduationCap),
-    date: "2023 - Actualidad",
+    date: "2023 - Ene. 2025",
   }
 ] as const;
 

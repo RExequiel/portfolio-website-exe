@@ -64,7 +64,7 @@ export default function Intro() {
       >
         Hola!, mi nombre es Exequiel.
         <span className="font-bold"> Desarrollador de software</span> con tecnologías{" "}
-        <span className="font-bold">JavaScript, Java, SQL, NoSQL, servicios en la nube, VTEX y Shopify.</span>
+        <span className="font-bold">JavaScript, Java, SQL, NoSQL, servicios en la nube y VTEX.</span>
       </motion.h2>
 
       <motion.div
